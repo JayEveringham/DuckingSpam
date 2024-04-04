@@ -1,0 +1,12 @@
+{
+    "apiKey": "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",
+    "serverName": "posteo.de",
+    "email": "jay.e@posteo.net",
+    "port": "993",
+    "maxEmails": 20,
+    "searchFolder": "Inbox",
+    "spamFolder": "Junk",
+    "system": "You carefully categorise emails into Spam or Not Spam, and very succinctly explain why.  Only categorise as spam if likelihood is high, however most cryptocurrency emails are probably spam.  Strictly format your responses: Start with a respective '-Not spam' or '-Spam', followed on the next line by 'Reasoning: [your reasoning]'.",
+    "model": "gpt-3.5-turbo"
+}
+
