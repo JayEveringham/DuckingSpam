@@ -1,5 +1,4 @@
 # DuckingSpam
-#### [DuckingSpam live YouTube demo](https://www.youtube.com/watch?v=0Bk54__eaJ8)
 #### Description: AI Powered Spam Protection
 
 #### Summary
